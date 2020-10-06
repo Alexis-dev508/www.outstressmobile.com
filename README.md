@@ -6,4 +6,3 @@ The app consist in a very intuitive ** Pomodoro Timer **, that scientifically is
 After 4 sessions we take a long break of 25-30 minutes.
 
 This technique gives dopamine to the brain each 25 minutes, avoiding the boring and preventing higth stress levels. 
-# www.outstress.com
